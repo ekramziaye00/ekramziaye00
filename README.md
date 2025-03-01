@@ -1,4 +1,4 @@
-![Masterhead]([)](https://media.licdn.com/dms/image/v2/D4D16AQHIbERvbVta2Q/profile-displaybackgroundimage-shrink_350_1400/B4DZUGBkR2HAAY-/0/1739562829788?e=1746057600&v=beta&t=et1u9LuBRHmE2MHYB_CrRiQe1r6gOzmu_LPnEyYM1U0)
+
 
 
 <h1 align="center">Hi 👋, I'm EKRAM-ZIAYE</h1>
